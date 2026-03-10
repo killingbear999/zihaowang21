@@ -42,7 +42,7 @@ export function PresentationCard({
           {/* Authors with Zihao Wang bolded */}
           <p className="text-gray-700 text-sm mb-2">{renderAuthors()}</p>
 
-          <h3 className="text-gray-900 font-normal mb-2 leading-snug">
+          <h3 className="text-base text-gray-900 font-normal mb-2 leading-snug">
             "{title}"
           </h3>
 
