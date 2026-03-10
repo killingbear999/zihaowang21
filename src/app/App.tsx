@@ -204,8 +204,7 @@ export default function App() {
               period="July 2023 - January 2025"
               advisors={['Prof. Zhe Wu']}
               responsibilities={[
-                'Conducted research on input convex neural networks, model predictive control, chemical process modeling, meta-learning, and physics-informed learning',
-                'Wrote concept papers and full proposals for grant applications and supervised master\'s students'
+                'Conducted research on input convex neural networks, model predictive control, chemical process modeling, meta-learning, and physics-informed learning'
               ]}
             />
             <ExperienceCard
