@@ -2,7 +2,7 @@ import { Presentation, MapPin } from 'lucide-react';
 
 interface PresentationCardProps {
   title: string;
-  authors: string;
+  authors: string; // pass as plain string
   conference: string;
   location: string;
   year: string;
@@ -19,6 +19,19 @@ export function PresentationCard({
   type,
   note 
 }: PresentationCardProps) {
+
+  // Bold "Zihao Wang" in authors
+  const renderAuthors = () => {
+    const parts = authors.split("Zihao Wang");
+    return parts.reduce<React.ReactNode[]>((acc, part, index) => {
+      acc.push(part); // normal text
+      if (index < parts.length - 1) {
+        acc.push(<span key={index} className="font-bold">Zihao Wang</span>);
+      }
+      return acc;
+    }, []);
+  };
+
   return (
     <div className="bg-white rounded-lg border border-gray-200 p-5 hover:shadow-md transition-shadow">
       <div className="flex items-start gap-3">
@@ -26,10 +39,13 @@ export function PresentationCard({
           <Presentation className="text-indigo-600" size={20} />
         </div>
         <div className="flex-1">
-          <p className="text-gray-700 text-sm mb-2">{authors}</p>
-          <h3 className="text-gray-900 mb-2 leading-snug">
+          {/* Authors with Zihao Wang bolded */}
+          <p className="text-gray-700 text-sm mb-2">{renderAuthors()}</p>
+
+          <h3 className="text-gray-900 font-normal mb-2 leading-snug">
             "{title}"
           </h3>
+
           <p className="text-sm text-gray-600 mb-2 italic">{conference}</p>
           
           <div className="flex items-center gap-2 text-gray-500 text-sm mb-2">
