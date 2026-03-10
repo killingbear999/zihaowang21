@@ -1,7 +1,7 @@
 import { FileText, ExternalLink, Github } from 'lucide-react';
 
 interface PublicationCardProps {
-  authors: string;
+  authors: React.ReactNode;
   title: string;
   venue: string;
   links?: { label: string; url: string }[];
