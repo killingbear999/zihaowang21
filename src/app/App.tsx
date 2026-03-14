@@ -245,7 +245,7 @@ export default function App() {
           <div className="grid md:grid-cols-2 gap-4">
             <AwardCard
               title="Travel Grant"
-              organization="European Congress of Clinical Microbiology and Infectious Diseases (ESCMID Global 2026)"
+              organization="ESCMID Global 2026"
               date="04/2026"
             />
             <AwardCard
