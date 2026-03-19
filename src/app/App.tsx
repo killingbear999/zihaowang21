@@ -81,9 +81,8 @@ export default function App() {
               authors="Zihao Wang, Dariya Nikitin, Borame L. Dickens, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Keisuke Ejima, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
               title="Long-term public health impact of doxycycline post-exposure prophylaxis on syphilis transmission"
               venue="Nature Health"
-              status="Accepted"
               links={[
-                { label: 'medRxiv', url: 'https://doi.org/10.1101/2025.07.28.25332286' },
+                { label: 'Paper', url: 'https://www.nature.com/articles/s44360-026-00092-3' },
                 { label: 'GitHub', url: 'https://github.com/killingbear999/doxypep_syphilis' }
               ]}
             />
