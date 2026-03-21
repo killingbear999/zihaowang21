@@ -27,7 +27,7 @@ export function Header() {
             </a>
             <a href="https://raw.githubusercontent.com/killingbear999/zihaowang21/main/CV_WangZihao_NTU.pdf" className="flex items-center gap-2 text-blue-600 hover:text-blue-700 transition-colors">
               <ExternalLink size={18} />
-              <span>CV</span>
+              <span>Download CV</span>
             </a>
           </div>
         </div>
