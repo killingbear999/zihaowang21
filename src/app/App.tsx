@@ -21,7 +21,7 @@ export default function App() {
             <div className="md:col-span-1">
               <div className="rounded-lg overflow-hidden shadow-lg">
                 <ImageWithFallback 
-                  src="https://raw.githubusercontent.com/killingbear999/zihaowang21/main/IMG_5420.jpg"
+                  src="https://raw.githubusercontent.com/killingbear999/zihaowang21/main/myphoto.jpg"
                   alt="Academic Research"
                   className="w-full h-auto"
                 />
