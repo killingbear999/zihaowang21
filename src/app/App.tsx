@@ -80,7 +80,7 @@ export default function App() {
             <PublicationCard
               authors="Zihao Wang, Dariya Nikitin, Borame L. Dickens, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Keisuke Ejima, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
               title="Long-term public health impact of doxycycline post-exposure prophylaxis on syphilis transmission"
-              venue="Nature Health, 2026"
+              venue="Nature Health, 1-13, 2026"
               links={[
                 { label: 'Paper', url: 'https://www.nature.com/articles/s44360-026-00092-3' },
                 { label: 'GitHub', url: 'https://github.com/killingbear999/doxypep_syphilis' }
@@ -98,7 +98,7 @@ export default function App() {
             <PublicationCard
               authors="Zihao Wang, and Zhe Wu"
               title="Towards foundation model for chemical reactor modeling: Meta-learning with physics-informed adaptation"
-              venue="Chemical Engineering Research and Design, 218, 839-853, 2025. IF: 3.9, JCR Q2 (Engineering, Chemical)"
+              venue="Chemical Engineering Research and Design 218, 839-853, 2025. IF: 3.9, JCR Q2 (Engineering, Chemical)"
               links={[
                 { label: 'Paper', url: 'https://doi.org/10.1016/j.cherd.2025.05.015' },
                 { label: 'GitHub', url: 'https://github.com/killingbear999/chemical-reactor-foundation-model' }
@@ -107,7 +107,7 @@ export default function App() {
             <PublicationCard
               authors="Zihao Wang, Donghan Yu, and Zhe Wu"
               title="Real-time machine-learning-based optimization using input convex long short-term memory network"
-              venue="Applied Energy, 377, 124472, 2025. IF: 11.0, JCR Q1 (Engineering, Chemical; Energy & Fuels)"
+              venue="Applied Energy 377, 124472, 2025. IF: 11.0, JCR Q1 (Engineering, Chemical; Energy & Fuels)"
               links={[
                 { label: 'Paper', url: 'https://doi.org/10.1016/j.apenergy.2024.124472' },
                 { label: 'GitHub', url: 'https://github.com/killingbear999/ICLSTM' }
