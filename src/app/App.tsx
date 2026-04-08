@@ -131,12 +131,20 @@ export default function App() {
           <div className="space-y-4">
             <PresentationCard
               authors="Zihao Wang*, and Jue Tao Lim"
-              title="Modelling the interplay between doxycycline post-exposure prophylaxis, four-component meningococcal serogroup B (4CMenB) vaccine, and antimicrobial resistance in Neisseria gonorrhoeae"
+              title="Modelling the interplay between doxycycline post-exposure prophylaxis, vaccination, and antimicrobial resistance in Neisseria gonorrhoeae"
               conference="European Congress of Clinical Microbiology and Infectious Diseases (ESCMID Global 2026)"
               location="Munich, Germany"
               year="2026"
               type="Poster"
               note="Top 2%"
+            />
+            <PresentationCard
+              authors="Zihao Wang*, and Jue Tao Lim"
+              title="Modelling the interplay between doxycycline post-exposure prophylaxis, vaccination, and antimicrobial resistance in Neisseria gonorrhoeae"
+              conference="LKCMedicine EArly Researcher Network (LEARN) Symposium"
+              location="Singapore"
+              year="2026"
+              type="Flash Talk"
             />
             <PresentationCard
               authors="Zihao Wang*, and Jue Tao Lim"
@@ -189,11 +197,11 @@ export default function App() {
               organization="National Centre for Infectious Diseases"
               position="Research Staff (Part-time)"
               location="Tan Tock Seng Hospital, Singapore"
-              period="May 2025 - Present"
+              period="May 2025 - May 2026"
               advisors={['Prof. Kelvin Bryan Tan', 'Prof. Jue Tao Lim']}
               responsibilities={[
-                'Conduct research on evaluating different methodological approaches to estimate the true infection fatality ratio (IFR) during pandemics, with the aim of informing early estimation of IFR under limited data to support timely, evidence-based policy decisions, under the Programme for Research in Epidemic Preparedness and REsponse (PREPARE)',
-                'Conduct research on population-based retrospective cohort studies for respiratory syncytial virus (RSV) and dengue'
+                'Conducted research on evaluating different methodological approaches to estimate the true infection fatality ratio (IFR) during pandemics, with the aim of informing early estimation of IFR under limited data to support timely, evidence-based policy decisions, under the Programme for Research in Epidemic Preparedness and REsponse (PREPARE)',
+                'Conducted research on population-based retrospective cohort studies for respiratory syncytial virus (RSV) and dengue'
               ]}
             />
             <ExperienceCard
