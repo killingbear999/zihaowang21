@@ -130,6 +130,14 @@ export default function App() {
         <Section id="presentations" title="Presentations">
           <div className="space-y-4">
             <PresentationCard
+              authors="Zihao Wang*, Dariya Nikitin, Borame L. Dickens, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Keisuke Ejima, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
+              title="Long-term public health impact of doxycycline post-exposure prophylaxis on syphilis transmission"
+              conference="Singapore HIV, Hepatitis and Sexually Transmitted Infections Congress (SHHSC)"
+              location="Singapore"
+              year="2026"
+              type="Oral"
+            />
+            <PresentationCard
               authors="Zihao Wang*, Dariya Nikitin, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
               title="Modelling the interplay between doxycycline post-exposure prophylaxis, vaccination, and antimicrobial resistance in Neisseria gonorrhoeae"
               conference="European Congress of Clinical Microbiology and Infectious Diseases (ESCMID Global 2026)"
