@@ -33,7 +33,7 @@ export default function App() {
                 My current research interests lie at the intersection of infectious disease epidemiology and mathematical modelling, 
                 with a focus on antimicrobial resistance, sexually transmitted infections, and hospital infection control,
                 by applying transmission dynamic models and statistical inference methods to inform evidence-based public health interventions and policy.
-                I work under the guidance of Dr. Lim Jue Tao at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
+                I work under the supervision of Assi. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
               </p>
               <p className="text-gray-700 leading-relaxed">
                 Previously, I earned my Bachelor's degree in Computer Engineering from the National University 
@@ -52,7 +52,7 @@ export default function App() {
               gpa="GPA: 4.88/5.0"
               period="January 2025 - present"
               advisors={[
-                'Prof. Jue Tao Lim',
+                'Asst. Prof. Jue Tao Lim',
                 'Dr. Ian Wee Liang En (Singapore General Hospital)'
               ]}
               interests={['Systems Modeling', 'Biostatistics', 'Deep Learning']}
@@ -65,7 +65,7 @@ export default function App() {
               advisors={[
                 'Dr. Ganesh Neelakanta Iyer',
                 'Dr. Ravi Suppiah',
-                'Prof. Deepu John (University College Dublin)'
+                'Asst. Prof. Deepu John (University College Dublin)'
               ]}
               program="University Town College Program"
             />
