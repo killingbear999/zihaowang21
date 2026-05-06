@@ -29,13 +29,11 @@ export default function App() {
             </div>
             <div className="md:col-span-2">
               <p className="text-gray-700 leading-relaxed mb-4">
-                I am a Ph.D. candidate in Lee Kong Chian School of Medicine at Nanyang Technological University, Singapore, specializing in 
-                systems modeling and biostatistics.
-              </p>
-              <p className="text-gray-700 leading-relaxed mb-4">
-                My current research focuses on developing mathematical models to understand and predict the spread of infectious 
-                diseases, emergence of antimicrobial resistance, evaluate and optimize public health interventions, mainly on sexually transmitted infections. I work under the guidance 
-                of Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
+                I am a PhD candidate at the Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore. 
+                My current research interests lie at the intersection of infectious disease epidemiology and mathematical modelling, 
+                with a focus on antimicrobial resistance, sexually transmitted infections, and hospital infection control,
+                by applying transmission dynamic models and statistical inference methods to inform evidence-based public health interventions and policy.
+                I work under the guidance of Dr. Lim Jue Tao at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
               </p>
               <p className="text-gray-700 leading-relaxed">
                 Previously, I earned my Bachelor's degree in Computer Engineering from the National University 
