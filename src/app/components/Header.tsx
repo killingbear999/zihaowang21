@@ -9,7 +9,7 @@ export function Header() {
             <h1 className="text-4xl font-bold text-gray-900 mb-2">Zihao Wang</h1>
             <p className="text-xl text-gray-600 mb-4">Ph.D. Candidate in Medicine</p>
             <p className="text-gray-700 max-w-2xl">
-              Specializing in systems modeling, biostatistics, and deep learning.
+              Specializing in systems modeling, statistical inference, and deep learning.
             </p>
           </div>
           <div className="flex flex-col gap-2">
