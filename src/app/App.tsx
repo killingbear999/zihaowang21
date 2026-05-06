@@ -55,7 +55,7 @@ export default function App() {
                 'Asst. Prof. Jue Tao Lim',
                 'Dr. Ian Wee Liang En (Singapore General Hospital)'
               ]}
-              interests={['Systems Modeling', 'Biostatistics', 'Deep Learning']}
+              interests={['Systems Modeling', 'Statistical Inference', 'Deep Learning']}
             />
             <EducationCard
               institution="National University of Singapore, Singapore"
