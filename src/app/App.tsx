@@ -130,7 +130,7 @@ export default function App() {
             <PresentationCard
               authors="Zihao Wang*, Dariya Nikitin, Borame L. Dickens, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Keisuke Ejima, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
               title="Long-term public health impact of doxycycline post-exposure prophylaxis on syphilis transmission"
-              conference="Singapore HIV, Hepatitis and Sexually Transmitted Infections Congress (SHHSC)"
+              conference="Singapore HIV, Hepatitis and STI Congress (SHHSC)"
               location="Singapore"
               year="2026"
               type="Oral"
