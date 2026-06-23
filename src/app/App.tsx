@@ -137,7 +137,7 @@ export default function App() {
             />
             <PresentationCard
               authors="Zihao Wang*, Dariya Nikitin, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
-              title="Modelling the interplay between doxycycline post-exposure prophylaxis, vaccination, and antimicrobial resistance in Neisseria gonorrhoeae"
+              title="Modelling the interplay between doxycycline post-exposure prophylaxis, four-component serogroup B meningococcal (4CMenB) vaccine, and antimicrobial resistance in *Neisseria gonorrhoeae*"
               conference="European Congress of Clinical Microbiology and Infectious Diseases (ESCMID Global 2026)"
               location="Munich, Germany"
               year="2026"
@@ -146,7 +146,7 @@ export default function App() {
             />
             <PresentationCard
               authors="Zihao Wang*, Dariya Nikitin, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
-              title="Modelling the interplay between doxycycline post-exposure prophylaxis, vaccination, and antimicrobial resistance in Neisseria gonorrhoeae"
+              title="Modelling the interplay between doxycycline post-exposure prophylaxis, four-component meningococcal serogroup B (4CMenB) vaccine, and antimicrobial resistance in *Neisseria gonorrhoeae*"
               conference="LKCMedicine EArly Researcher Network (LEARN) Symposium"
               location="Singapore"
               year="2026"
