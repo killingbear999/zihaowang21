@@ -76,6 +76,14 @@ export default function App() {
         <Section id="publications" title="Publications">
           <div className="space-y-4">
             <PublicationCard
+              authors="Lin Geng*, Perran A. Ross*, Cai Yu*, Tao Huang, Jo Yi Chow, Zihao Wang, Esther Li Wen Choo, Chia-Chen Chang, Lisa Couper, Xinyue Gu, Ary Hoffmann, and Jue Tao Lim"
+              title="Robustness of Wolbachia-mediated incompatible-insect technique to future climate change scenarios"
+              venue="medRxiv"
+              links={[
+                { label: 'medRxiv', url: 'https://doi.org/10.64898/2026.06.26.26356650' }
+              ]}
+            />
+            <PublicationCard
               authors="Zihao Wang, Dariya Nikitin, Borame L. Dickens, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Keisuke Ejima, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
               title="Long-term public health impact of doxycycline post-exposure prophylaxis on syphilis transmission"
               venue="Nature Health, 1-13, 2026"
