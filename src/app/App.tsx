@@ -122,7 +122,7 @@ export default function App() {
             <PublicationCard
               authors="Zihao Wang, and Ravi Suppiah"
               title="Upper limb movement recognition utilising EEG and EMG signals for rehabilitative robotics"
-              venue="Proceedings of Future of Information and Communication Conference, 676-695, San Francisco, California, USA, 2023"
+              venue="Future of Information and Communication Conference, 676-695, 2023"
               links={[
                 { label: 'Paper', url: 'https://doi.org/10.1007/978-3-031-28076-4_49' },
                 { label: 'GitHub', url: 'https://github.com/killingbear999/eeg-emg-lstm' }
