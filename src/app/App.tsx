@@ -76,6 +76,15 @@ export default function App() {
         <Section id="publications" title="Publications">
           <div className="space-y-4">
             <PublicationCard
+              authors="Zihao Wang, Dariya Nikitin, George T.B. Young, Matan Yechezkel, Liang En Wee, Martin T.W. Chio, Lin Geng, Rayner Kay Jin Tan, Yi Wang, David N. Fisman, Joseph A. Lewnard, Lilith K. Whittles, and Jue Tao Lim"
+              title="The long-term epidemiological impacts of doxycycline post-exposure prophylaxis and vaccination against multidrug-resistant Neisseria gonorrhoeae: a mathematical modelling study"
+              venue="medRxiv"
+              links={[
+                { label: 'medRxiv', url: 'https://doi.org/10.64898/2026.07.28.26359123' },
+                { label: 'GitHub', url: 'https://github.com/killingbear999/amr_gonorrhoea' }
+              ]}
+            />
+            <PublicationCard
               authors="Lin Geng*, Perran A. Ross*, Cai Yu*, Tao Huang, Jo Yi Chow, Zihao Wang, Esther Li Wen Choo, Chia-Chen Chang, Lisa Couper, Xinyue Gu, Ary Hoffmann, and Jue Tao Lim"
               title="Robustness of Wolbachia-mediated incompatible-insect technique to future climate change scenarios"
               venue="medRxiv"
