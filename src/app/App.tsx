@@ -36,6 +36,9 @@ export default function App() {
                 strategies and health policy. I work under the supervision of Assi. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
                 My work is conducted in collaboration with leading international researchers, including Prof. David N. Fisman (University of Toronto), Assoc. Prof. 
                 Joseph Lewnard (University of California, Berkeley), Assi. Prof. Lilith K. Whittles (Imperial College London), and Assi. Prof. Sen Pei (Columbia University).
+                I also work closely with public health agencies and health policymakers in Singapore, including Prof. David Lye, Group Director of the Communicable Diseases Agency, Singapore, 
+                and Assoc. Prof. Kelvin Bryan Tan, Chief Health Economist at the Ministry of Health, translating quantitative modelling into evidence that supports national infectious disease policy 
+                and healthcare decision-making.
               </p>
               <p className="text-gray-700 leading-relaxed">
                 Prior to my PhD, I received a Bachelor's degree (Honours) in Computer Engineering from the National University of Singapore (NUS). 
