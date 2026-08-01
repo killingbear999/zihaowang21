@@ -29,15 +29,18 @@ export default function App() {
             </div>
             <div className="md:col-span-2">
               <p className="text-gray-700 leading-relaxed mb-4">
-                I am a PhD candidate at the Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore. 
-                My current research interests lie at the intersection of infectious disease epidemiology and mathematical modelling, 
-                with a focus on antimicrobial resistance, sexually transmitted infections, and hospital infection control,
-                by applying transmission dynamic models and statistical inference methods to inform evidence-based public health interventions and policy.
-                I work under the supervision of Assi. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
+                I am a PhD candidate at the Lee Kong Chian School of Medicine, Nanyang Technological University (NTU), Singapore. 
+                My research lies at the intersection of infectious disease epidemiology and mathematical modelling, with a focus on antimicrobial resistance, 
+                sexually transmitted infections, and healthcare-associated infections. I develop transmission dynamic models and statistical inference methods 
+                to understand disease transmission and evaluate public health interventions, with the goal of informing evidence-based infectious disease control 
+                strategies and health policy. I work under the supervision of Assi. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
+                My work is conducted in collaboration with leading international researchers, including Prof. David N. Fisman (University of Toronto), Assoc. Prof. 
+                Joseph Lewnard (University of California, Berkeley), Assi. Prof. Lilith K. Whittles (Imperial College London), and Assi. Prof. Sen Pei (Columbia University).
               </p>
               <p className="text-gray-700 leading-relaxed">
-                Previously, I earned my Bachelor's degree in Computer Engineering from the National University 
-                of Singapore and worked as a Research Engineer, specializing in deep learning for engineering.
+                Prior to my PhD, I received a Bachelor's degree (Honours) in Computer Engineering from the National University of Singapore (NUS). 
+                I subsequently worked as a Research Engineer, conducting research in AI for engineering systems, 
+                with expertise spanning deep learning, model predictive control, and data-driven modelling.
               </p>
             </div>
           </div>
