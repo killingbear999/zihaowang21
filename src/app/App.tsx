@@ -34,11 +34,8 @@ export default function App() {
                 sexually transmitted infections, and healthcare-associated infections. I develop transmission dynamic models and statistical inference methods 
                 to understand disease transmission and evaluate public health interventions, with the goal of informing evidence-based infectious disease control 
                 strategies and health policy. I work under the supervision of Assi. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
-                My work is conducted in collaboration with leading international researchers, including Prof. David N. Fisman (University of Toronto), Assoc. Prof. 
-                Joseph Lewnard (University of California, Berkeley), Assi. Prof. Lilith K. Whittles (Imperial College London), and Assi. Prof. Sen Pei (Columbia University).
-                I also work closely with public health agencies and health policymakers in Singapore, including Prof. David Lye, Group Director of the Communicable Diseases Agency, Singapore, 
-                and Assoc. Prof. Kelvin Bryan Tan, Chief Health Economist at the Ministry of Health, translating quantitative modelling into evidence that supports national infectious disease policy 
-                and healthcare decision-making.
+                My work is conducted in collaboration with Prof. David N. Fisman (University of Toronto), Assoc. Prof. Joseph Lewnard (University of California, Berkeley), 
+                Assi. Prof. Lilith K. Whittles (Imperial College London), and Assi. Prof. Sen Pei (Columbia University).
               </p>
               <p className="text-gray-700 leading-relaxed">
                 Prior to my PhD, I received a Bachelor's degree (Honours) in Computer Engineering from the National University of Singapore (NUS). 
@@ -151,7 +148,7 @@ export default function App() {
         <Section id="presentations" title="Presentations">
           <div className="space-y-4">
             <PresentationCard
-              authors="Zihao Wang*, Dariya Nikitin, Liang En Wee, Martin T.W. Chio, George Young, Rayner Kay Jin Tan, Yi Wang, David N. Fisman, Joseph A. Lewnard, Lilith K. Whittles, and Jue Tao Lim"
+              authors="Zihao Wang*, Dariya Nikitin, George T.B. Young, Matan Yechezkel, Liang En Wee, Martin T.W. Chio, Lin Geng, Rayner Kay Jin Tan, Yi Wang, David N. Fisman, Joseph A. Lewnard, Lilith K. Whittles, and Jue Tao Lim"
               title="The long-term epidemiological and evolutionary consequences of joint doxycycline post-exposure prophylaxis and vaccination deployment against multidrug-resistant Neisseria gonorrhoeae: a mathematical modelling study"
               conference="20th Singapore Public Health & Occupational Medicine (PHOM) Conference"
               location="Singapore"
