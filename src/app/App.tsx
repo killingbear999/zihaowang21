@@ -33,13 +33,13 @@ export default function App() {
                 My research lies at the intersection of infectious disease epidemiology and mathematical modelling, with a focus on antimicrobial resistance, 
                 sexually transmitted infections, and healthcare-associated infections. I develop transmission dynamic models and statistical inference methods 
                 to understand disease transmission and evaluate public health interventions, with the goal of informing evidence-based infectious disease control 
-                strategies and health policy. I work under the supervision of Assi. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
+                strategies and health policy. I work under the supervision of Asst. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
                 My work is conducted in collaboration with Prof. David N. Fisman (University of Toronto), Assoc. Prof. Joseph Lewnard (University of California, Berkeley), 
-                Assi. Prof. Lilith K. Whittles (Imperial College London), and Assi. Prof. Sen Pei (Columbia University).
+                Asst. Prof. Lilith K. Whittles (Imperial College London), and Asst. Prof. Sen Pei (Columbia University).
               </p>
               <p className="text-gray-700 leading-relaxed">
                 Prior to my PhD, I received a Bachelor's degree (Honours) in Computer Engineering from the National University of Singapore (NUS). 
-                I subsequently worked as a Research Engineer, conducting research in AI for engineering systems, 
+                I subsequently worked as a Research Engineer with Asst. Prof. Zhe Wu, conducting research in AI for engineering systems, 
                 with expertise spanning deep learning, model predictive control, and data-driven modelling.
               </p>
             </div>
@@ -232,7 +232,7 @@ export default function App() {
               position="Research Staff (Part-time)"
               location="Tan Tock Seng Hospital, Singapore"
               period="May 2025 - May 2026"
-              advisors={['Prof. Kelvin Bryan Tan', 'Prof. Jue Tao Lim']}
+              advisors={['Adjunct Assoc. Prof. Kelvin Bryan Tan', 'Asst. Prof. Jue Tao Lim']}
               responsibilities={[
                 'Conducted research on evaluating different methodological approaches to estimate the true infection fatality ratio (IFR) during pandemics, with the aim of informing early estimation of IFR under limited data to support timely, evidence-based policy decisions, under the Programme for Research in Epidemic Preparedness and REsponse (PREPARE)',
                 'Conducted research on population-based retrospective cohort studies for respiratory syncytial virus (RSV) and dengue'
@@ -243,7 +243,7 @@ export default function App() {
               position="Research Engineer (Full-time)"
               location="National University of Singapore, Singapore"
               period="July 2023 - January 2025"
-              advisors={['Prof. Zhe Wu']}
+              advisors={['Asst. Prof. Zhe Wu']}
               responsibilities={[
                 'Conducted research on input convex neural networks, model predictive control, chemical process modeling, meta-learning, and physics-informed learning'
               ]}
@@ -253,7 +253,7 @@ export default function App() {
               position="Undergraduate Research Assistant (Internship)"
               location="National University of Singapore, Singapore"
               period="March 2023 - July 2023"
-              advisors={['Prof. Yueming Jin']}
+              advisors={['Asst. Prof. Yueming Jin']}
               responsibilities={[
                 'Conducted research on computer vision for gastrectomy surgical video analysis and modality-cataract video segmentation'
               ]}
