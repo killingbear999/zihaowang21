@@ -154,6 +154,7 @@ export default function App() {
               location="Singapore"
               year="2026"
               type="Oral"
+              note="Award"
             />
             <PresentationCard
               authors="Zihao Wang*, Dariya Nikitin, Borame L. Dickens, Liang En Wee, Martin T.W. Chio, Rayner Kay Jin Tan, Keisuke Ejima, Yi Wang, David N. Fisman, Lilith K. Whittles, and Jue Tao Lim"
@@ -234,8 +235,7 @@ export default function App() {
               period="May 2025 - May 2026"
               advisors={['Adjunct Assoc. Prof. Kelvin Bryan Tan', 'Asst. Prof. Jue Tao Lim']}
               responsibilities={[
-                'Conducted research on evaluating different methodological approaches to estimate the true infection fatality ratio (IFR) during pandemics, with the aim of informing early estimation of IFR under limited data to support timely, evidence-based policy decisions, under the Programme for Research in Epidemic Preparedness and REsponse (PREPARE)',
-                'Conducted research on population-based retrospective cohort studies for respiratory syncytial virus (RSV) and dengue'
+                'Estimation of infection fatality ratio (IFR) during pandemics, population-based retrospective cohort studies, respiratory syncytial virus (RSV), dengue'
               ]}
             />
             <ExperienceCard
@@ -245,7 +245,7 @@ export default function App() {
               period="July 2023 - January 2025"
               advisors={['Asst. Prof. Zhe Wu']}
               responsibilities={[
-                'Conducted research on input convex neural networks, model predictive control, chemical process modeling, meta-learning, and physics-informed learning'
+                'Input convex neural networks, model predictive control, chemical process modeling, meta-learning, physics-informed learning'
               ]}
             />
             <ExperienceCard
@@ -255,7 +255,7 @@ export default function App() {
               period="March 2023 - July 2023"
               advisors={['Asst. Prof. Yueming Jin']}
               responsibilities={[
-                'Conducted research on computer vision for gastrectomy surgical video analysis and modality-cataract video segmentation'
+                'Computer vision, gastrectomy surgical video analysis, modality-cataract video segmentation'
               ]}
             />
             <ExperienceCard
@@ -265,7 +265,7 @@ export default function App() {
               period="May 2022 - August 2022"
               advisors={['Dr. Aditya Venkataraman', 'Dr. Benjamin Cheong']}
               responsibilities={[
-                'Worked on software engineering solutions for hybrid-electric power and propulsion design tools for marine and aero engines'
+                'Software engineering, hybrid-electric power and propulsion design tools, marine and aero engines'
               ]}
             />
             <ExperienceCard
@@ -275,7 +275,7 @@ export default function App() {
               period="March 2022 - May 2022"
               advisors={['Prof. Shengdong Zhao']}
               responsibilities={[
-                'Conducted empirical research on human-computer interaction'
+                'Human-computer interaction'
               ]}
             />
           </div>
@@ -284,6 +284,11 @@ export default function App() {
         {/* Awards Section */}
         <Section id="awards" title="Awards & Honors">
           <div className="grid md:grid-cols-2 gap-4">
+            <AwardCard
+              title="Oral Presentation Award (Resident & Student Category)"
+              organization="20th PHOM"
+              date="08/2026"
+            />
             <AwardCard
               title="Travel Grant"
               organization="ESCMID Global 2026"
