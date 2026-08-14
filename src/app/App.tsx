@@ -34,7 +34,7 @@ export default function App() {
                 sexually transmitted infections, and healthcare-associated infections. I develop transmission dynamic models and statistical inference methods 
                 to understand disease transmission and evaluate public health interventions, with the goal of informing evidence-based infectious disease control 
                 strategies and health policy. I work under the supervision of Asst. Prof. Jue Tao Lim at NTU and Dr. Ian Wee Liang En at Singapore General Hospital.
-                My work is conducted in collaboration with Prof. David N. Fisman (University of Toronto), Assoc. Prof. Joseph Lewnard (University of California, Berkeley), 
+                My work is conducted in collaboration with Prof. David N. Fisman (University of Toronto), Assoc. Prof. Joseph A. Lewnard (University of California, Berkeley), 
                 Asst. Prof. Lilith K. Whittles (Imperial College London), and Asst. Prof. Sen Pei (Columbia University).
               </p>
               <p className="text-gray-700 leading-relaxed">
