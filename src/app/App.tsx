@@ -285,7 +285,7 @@ export default function App() {
         <Section id="awards" title="Awards & Honors">
           <div className="grid md:grid-cols-2 gap-4">
             <AwardCard
-              title="Oral Presentation Award (Resident & Student Category)"
+              title="Best Oral Presentation (Resident & Student Category)"
               organization="20th PHOM"
               date="08/2026"
             />
