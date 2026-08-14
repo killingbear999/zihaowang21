@@ -233,7 +233,7 @@ export default function App() {
               position="Research Staff (Part-time)"
               location="Tan Tock Seng Hospital, Singapore"
               period="May 2025 - May 2026"
-              advisor={['Adjunct Assoc. Prof. Kelvin Bryan Tan', 'Asst. Prof. Jue Tao Lim']}
+              advisors={['Adjunct Assoc. Prof. Kelvin Bryan Tan', 'Asst. Prof. Jue Tao Lim']}
               responsibilities={[
                 'Estimation of infection fatality ratio (IFR) during pandemics, population-based retrospective cohort studies, respiratory syncytial virus (RSV), dengue'
               ]}
@@ -243,7 +243,7 @@ export default function App() {
               position="Research Engineer (Full-time)"
               location="National University of Singapore, Singapore"
               period="July 2023 - January 2025"
-              advisor={['Asst. Prof. Zhe Wu']}
+              advisors={['Asst. Prof. Zhe Wu']}
               responsibilities={[
                 'Input convex neural networks, model predictive control, chemical process modeling, meta-learning, physics-informed learning'
               ]}
@@ -253,7 +253,7 @@ export default function App() {
               position="Undergraduate Research Assistant (Internship)"
               location="National University of Singapore, Singapore"
               period="March 2023 - July 2023"
-              advisor={['Asst. Prof. Yueming Jin']}
+              advisors={['Asst. Prof. Yueming Jin']}
               responsibilities={[
                 'Computer vision, gastrectomy surgical video analysis, modality-cataract video segmentation'
               ]}
@@ -273,7 +273,7 @@ export default function App() {
               position="Undergraduate Research Assistant (Internship)"
               location="National University of Singapore, Singapore"
               period="March 2022 - May 2022"
-              advisor={['Prof. Shengdong Zhao']}
+              advisors={['Prof. Shengdong Zhao']}
               responsibilities={[
                 'Human-computer interaction'
               ]}
