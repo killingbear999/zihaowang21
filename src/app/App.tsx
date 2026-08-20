@@ -88,8 +88,8 @@ export default function App() {
               ]}
             />
             <PublicationCard
-              authors="Lin Geng*, Perran A. Ross*, Cai Yu*, Tao Huang, Jo Yi Chow, Zihao Wang, Esther Li Wen Choo, Chia-Chen Chang, Lisa Couper, Xinyue Gu, Ary Hoffmann, and Jue Tao Lim"
-              title="Robustness of Wolbachia-mediated incompatible-insect technique to future climate change scenarios"
+              authors="Lin Geng*, Perran A. Ross*, Sui Han Ng*, Feng Guang Goh, Yu Cai, Tao Huang, Jo Yi Chow, Zihao Wang, Esther Li Wen Choo, Chia-Chen Chang, Lisa Couper, Xinyue Gu, Ary Hoffmann, and Jue Tao Lim"
+              title="Assessing the robustness of Wolbachia-mediated incompatible-insect technique to future climate change scenarios"
               venue="medRxiv"
               links={[
                 { label: 'medRxiv', url: 'https://doi.org/10.64898/2026.06.26.26356650' }
