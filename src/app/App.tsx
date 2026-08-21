@@ -105,7 +105,7 @@ export default function App() {
               ]}
             />
             <PublicationCard
-              authors="Zihao Wang, Yuhan Li, Yao Shi, and Zhe Wu"
+              authors="Zihao Wang*, Yuhan Li*, Yao Shi, Maher M. Alrashed, Abdulelah S. Alshehri, and Zhe Wu"
               title="Input convex lipschitz recurrent neural networks for robust and efficient process modeling and optimization"
               venue="arXiv"
               links={[
@@ -229,9 +229,8 @@ export default function App() {
         <Section id="experience" title="Professional Experience">
           <div className="space-y-6">
             <ExperienceCard
-              organization="National Centre for Infectious Diseases"
+              organization="National Centre for Infectious Diseases, Singapore"
               position="Research Staff (Part-time)"
-              location="Tan Tock Seng Hospital, Singapore"
               period="May 2025 - May 2026"
               advisors={['Adjunct Assoc. Prof. Kelvin Bryan Tan', 'Asst. Prof. Jue Tao Lim']}
               responsibilities={[
@@ -239,9 +238,8 @@ export default function App() {
               ]}
             />
             <ExperienceCard
-              organization="Department of Chemical & Biomolecular Engineering"
+              organization="Department of Chemical & Biomolecular Engineering, National University of Singapore, Singapore"
               position="Research Engineer (Full-time)"
-              location="National University of Singapore, Singapore"
               period="July 2023 - January 2025"
               advisors={['Asst. Prof. Zhe Wu']}
               responsibilities={[
@@ -249,9 +247,8 @@ export default function App() {
               ]}
             />
             <ExperienceCard
-              organization="Department of Biomedical Engineering"
+              organization="Department of Biomedical Engineering, National University of Singapore, Singapore"
               position="Undergraduate Research Assistant (Internship)"
-              location="National University of Singapore, Singapore"
               period="March 2023 - July 2023"
               advisors={['Asst. Prof. Yueming Jin']}
               responsibilities={[
@@ -259,9 +256,8 @@ export default function App() {
               ]}
             />
             <ExperienceCard
-              organization="Rolls-Royce@NTU Corporate Laboratory"
+              organization="Rolls-Royce@NTU Corporate Laboratory, Nanyang Technological University, Singapore"
               position="Research Engineer (Internship)"
-              location="Nanyang Technological University, Singapore"
               period="May 2022 - August 2022"
               advisors={['Dr. Aditya Venkataraman', 'Dr. Benjamin Cheong']}
               responsibilities={[
@@ -269,9 +265,8 @@ export default function App() {
               ]}
             />
             <ExperienceCard
-              organization="NUS Human-Computer Interaction (NUS-HCI) Lab"
+              organization="School of Computing, National University of Singapore, Singapore"
               position="Undergraduate Research Assistant (Internship)"
-              location="National University of Singapore, Singapore"
               period="March 2022 - May 2022"
               advisors={['Prof. Shengdong Zhao']}
               responsibilities={[
@@ -286,7 +281,7 @@ export default function App() {
           <div className="grid md:grid-cols-2 gap-4">
             <AwardCard
               title="Best Oral Presentation (Resident & Student Category)"
-              organization="20th PHOM"
+              organization="20th PHOM Conference"
               date="08/2026"
             />
             <AwardCard
